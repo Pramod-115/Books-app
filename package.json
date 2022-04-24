@@ -1,0 +1,20 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "This is an app which maintains records of book. This is to show my ability to manupulate Arrays and Objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Book",
+    "app",
+    "app"
+  ],
+  "author": "Pramod Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nedb": "^1.8.0"
+  }
+}
